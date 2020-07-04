@@ -15,4 +15,4 @@ If such an install is not present, a minimal history functionality is offered bu
 
 Enjoy!
 
-
+Note: The default branch is `default` :wink:
